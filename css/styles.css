@@ -1,12 +1,12 @@
 body {
   font-size: 16px;
   color: rgba(34, 33, 33, 0.884);
-  background-color: #D3D3D3;
+  background-color: #D23B3B;
   font-family: "Comic Sans MS", cursive, sans-serif
 }
 
 #header-nav {
-  background-color: #F08080;
+  background-color: #9B9BC4;
   border-radius: 0;
   border: 0;
   min-height: 70px;
